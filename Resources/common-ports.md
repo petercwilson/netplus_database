@@ -33,6 +33,7 @@ A comprehensive port reference for CompTIA Network+ N10-009.
 | 636 | TCP | LDAPS | LDAP over TLS |
 | 993 | TCP | IMAPS | IMAP over TLS |
 | 995 | TCP | POP3S | POP3 over TLS |
+| 49 | TCP | TACACS+ | Cisco AAA protocol |
 
 ---
 
@@ -51,7 +52,6 @@ A comprehensive port reference for CompTIA Network+ N10-009.
 | 5061 | TCP | SIPS | SIP over TLS |
 | 8080 | TCP | HTTP-Alt | Alternate HTTP / proxy |
 | 8443 | TCP | HTTPS-Alt | Alternate HTTPS |
-| 49 | TCP | TACACS+ | Cisco AAA protocol |
 
 ---
 

@@ -34,7 +34,7 @@ This domain covers the operational management of a network, including monitoring
 | Informational | 6 | Login events |
 | Debug | 7 | Verbose diagnostic output |
 
-- Default port: **UDP 514** (TCP 1468 for reliable syslog)
+- Default port: **UDP 514** (TCP 514 for reliable syslog per RFC 3195)
 - Logs should be sent to a centralized **syslog server**.
 
 #### Network Monitoring Protocols / Tools
