@@ -130,7 +130,7 @@ Use this routine as a baseline and adapt it to your schedule. Aim for **60–90 
 - [Jason Dion Practice Tests](https://www.diontraining.com/)
 - [Subnetting Practice – Subnetting.net](https://subnetting.net/)
 - [Cisco Packet Tracer (Free)](https://www.netacad.com/courses/packet-tracer)
-- [CompTIANetwork+StudyGuide-N10-004](https://people.computing.clemson.edu/~jmarty/courses/commonCourseContent/NetworkOrSystemsCertifications/CompTIANetwork+StudyGuide-N10-004.pdf)
+- [CompTIANetwork+StudyGuide-N10-004 PDF Book](https://people.computing.clemson.edu/~jmarty/courses/commonCourseContent/NetworkOrSystemsCertifications/CompTIANetwork+StudyGuide-N10-004.pdf)
 
 ---
 
