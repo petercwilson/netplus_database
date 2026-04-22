@@ -1,25 +1,29 @@
-# Start-Here Workflow
+# Start Here — CompTIA Network+ N10-009 Study Repo
 
-This section includes a clear guide for getting started with Network+ study improvements.
+Use this repo as a structured, checklist-driven set of notes + labs.
 
-## Workflow Steps
-1. Review the objectives for each domain.
-2. Track your progress using the checklist provided.
-3. Follow the links to resources and labs for comprehensive learning.
+## Quick workflow (do this every study session)
+1. Pick **one domain**.
+2. Skim the **Objective Checklist** and mark weak items.
+3. Read only the sections you’re weak on.
+4. Run **one lab** (Packet Tracer / Wireshark).
+5. Do 10–15 practice questions.
+6. Update checklists + write down misses.
 
-## Progress Tracking
-Add checkboxes to track your completion for each domain and lab.
+## Progress tracking
+- [ ] Domain 1 — Networking Fundamentals
+- [ ] Domain 2 — Network Implementations
+- [ ] Domain 3 — Network Operations
+- [ ] Domain 4 — Network Security
+- [ ] Domain 5 — Network Troubleshooting
 
-- [ ] Domain 1: Network Concepts
-- [ ] Domain 2: Network Implementations
-- [ ] Domain 3: Network Operations
-- [ ] Domain 4: Network Security
-- [ ] Domain 5: Network Troubleshooting
+## Domains
+- [Domain 1 — Networking Fundamentals](./Domain-1-Networking-Fundamentals/README.md)
+- [Domain 2 — Network Implementations](./Domain-2-Network-Implementations/README.md)
+- [Domain 3 — Network Operations](./Domain-3-Network-Operations/README.md)
+- [Domain 4 — Network Security](./Domain-4-Network-Security/README.md)
+- [Domain 5 — Network Troubleshooting](./Domain-5-Network-Troubleshooting/README.md)
 
-## Links to Domains and Resources
-- [Domain 1 Overview](./Domain-1-Network-Concepts/README.md)
-- [Domain 2 Overview](./Domain-2-Network-Implementations/README.md)
-- [Domain 3 Overview](./Domain-3-Network-Operations/README.md)
-- [Domain 4 Overview](./Domain-4-Network-Security/README.md)
-- [Domain 5 Overview](./Domain-5-Network-Troubleshooting/README.md)
-- [Labs and Resources](./Labs/README.md)
+## Labs & Resources
+- [Labs](./Labs/README.md)
+- [Resources](./Resources/README.md)
